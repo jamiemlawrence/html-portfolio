@@ -1,2 +1,2 @@
 # html-portfolio
-My portfolio
+Testing/Learning HTML Project
